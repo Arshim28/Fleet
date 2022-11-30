@@ -4,3 +4,4 @@ Python Modules:
 -> PyGAD
 -> Tensorflow.keras
 -> Scikit_learn
+-> Pickle
